@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
-	"""Print the names defined in hidden_4 module."""
+	"""Print the names define."""
 	import hidden_4
 
 	names = dir(hidden_4)
