@@ -1,15 +1,15 @@
 #!/usr/bin/python3
-
+import sys
 def safe_print_integer_err(value):
-    """Prints the integer with "{:d}".format()."""
+    """Prints the integer with "{:d}".format().
 
-    """If a ValueError message is caught, a corresponding
-    message is printed to standard error."""
+    If a ValueError message is caught, a corresponding
+    message is printed to standard error.
 
-    """Args:
-        value (int): The integer to print."""
+    Args:
+        value (int): The integer to print.
 
-    """Returns:
+    Returns:
         If a TypeError/ ValueError occurs - False.
         Otherwise - True"""
 
