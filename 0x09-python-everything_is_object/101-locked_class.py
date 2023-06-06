@@ -2,7 +2,8 @@
 """Definds the LockedClass"""
 
 class LockedClass:
-    """Prevents the user from instanting new LockedClass attributes from
+    """
+    Prevents the user from instanting new LockedClass attributes from
     anything but attributes called 'first_name'
     """
 
