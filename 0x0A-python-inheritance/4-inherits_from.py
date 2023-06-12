@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#AhnySlippe
 """Definds an inherited class-checking function."""
 
 
